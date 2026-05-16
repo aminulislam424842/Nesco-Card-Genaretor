@@ -80,7 +80,7 @@ Developed for automation of prepaid meter card generation.
 
 ## 📷 Preview
 
-(Add screenshot here)
+![desktop](https://github.com/aminulislam424842/Nesco-Card-Generator/blob/54a124229f819aaf4df7e00c75d98c9d155213c2/Screenshot%20.png)
 
 ---
 
